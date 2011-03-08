@@ -23,6 +23,8 @@ $(document).ready(function()
   <input class="mam" value="MOM" />
   <input class="mam" value="MOM" />
 <textarea id="big_textarea" name="big_textarea" rows="23" cols="42"></textarea>
+<textarea id="big_textarea" name="big_textarea" rows="23" cols="42"></textarea>
+<textarea id="big_textarea" name="big_textarea" rows="23" cols="42"></textarea>
 </form>
 
 </body>
